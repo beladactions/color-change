@@ -1,9 +1,7 @@
 /* Styles for desktop */
 
 #container {
-    background-image: url(./1.png);
-    background-size: contain;
-    background-repeat: no-repeat;
+    
     display: flex;
     flex-direction: column;
     align-items: center;
